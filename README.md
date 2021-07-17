@@ -1,4 +1,4 @@
-# Can Neural Clone Detection Generalize to Unseen Functionalities
+# Functionality-generalization
 
 This is a repo for our ASE paper *Can Neural Clone Detection Generalize to Unseen Functionalities?*
 
